@@ -1,0 +1,36 @@
+Generated vectors of length 1024
+
+[0.0497046560049057, 0.04315205663442612, 0.034827280789613724, 0.02140413224697113, -0.031758978962898254, 0.0005693018320016563, 0.004758261609822512, 0.024636508896946907, 0.05142175778746605, 0.009832832962274551]
+page_content='direct to consumer operations sell products through the following number of retail stores in the United States:
+U.S. RETAIL STORES NUMBER
+NIKE Brand factory stores 213 
+NIKE Brand in-line stores (including employee-only stores) 74 
+Converse stores (including factory stores) 82 
+TOTAL 369 
+In the United States, NIKE has eight significant distribution centers. Refer to Item 2. Properties for further information.
+2023 FORM 10-K 2' metadata={'source': 'nke-10k-2023.pdf', 'page': 4, 'start_index': 3125}
+Score: 0.858139879287647
+page_content='Table of Contents
+FISCAL 2023 NIKE BRAND REVENUE HIGHLIGHTSThe following tables present NIKE Brand revenues disaggregated by reportable operating segment, distribution channel and major product line:
+FISCAL 2023 COMPARED TO FISCAL 2022
+� NIKE, Inc. Revenues were $51.2 billion in fiscal 2023, which increased 10% and 16% compared to fiscal 2022 on a reported and currency-neutral basis, respectively.
+The increase was due to higher revenues in North America, Europe, Middle East & Africa ("EMEA"), APLA and Greater China, which contributed approximately 7, 6,
+2 and 1 percentage points to NIKE, Inc. Revenues, respectively.
+� NIKE Brand revenues, which represented over 90% of NIKE, Inc. Revenues, increased 10% and 16% on a reported and currency-neutral basis, respectively. This
+increase was primarily due to higher revenues in Men's, the Jordan Brand, Women's and Kids' which grew 17%, 35%,11% and 10%, respectively, on a wholesale
+equivalent basis.' metadata={'source': 'nke-10k-2023.pdf', 'page': 35, 'start_index': 0}
+page_content='Table of Contents
+GROSS MARGIN
+FISCAL 2023 COMPARED TO FISCAL 2022
+For fiscal 2023, our consolidated gross profit increased 4% to $22,292 million compared to $21,479 million for fiscal 2022. Gross margin decreased 250 basis points to
+43.5% for fiscal 2023 compared to 46.0% for fiscal 2022 due to the following:
+*Wholesale equivalent
+The decrease in gross margin for fiscal 2023 was primarily due to:
+� Higher NIKE Brand product costs, on a wholesale equivalent basis, primarily due to higher input costs and elevated inbound freight and logistics costs as well as
+product mix;
+� Lower margin in our NIKE Direct business, driven by higher promotional activity to liquidate inventory in the current period compared to lower promotional activity in
+the prior period resulting from lower available inventory supply;
+� Unfavorable changes in net foreign currency exchange rates, including hedges; and
+� Lower off-price margin, on a wholesale equivalent basis.
+This was partially offset by:' metadata={'source': 'nke-10k-2023.pdf', 'page': 36, 'start_index': 0}
+
